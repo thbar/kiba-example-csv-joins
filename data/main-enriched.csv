@@ -1,0 +1,3 @@
+variant_name,client_id,language_id,client_name,language_name
+Test,100,1000,Acme Corp,Français
+Other test,200,2000,Super Work,English
