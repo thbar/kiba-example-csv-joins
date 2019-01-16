@@ -1,6 +1,3 @@
-# bundle install
-# bundle exec ruby demo.rb
-
 require_relative 'config'
 
 # doc at https://github.com/thbar/kiba/wiki
